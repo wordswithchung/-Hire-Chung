@@ -1,0 +1,51 @@
+body {
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/white-waves.png");
+}
+
+.name {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+    letter-spacing: 4px;
+}
+
+.placement {
+    width: 50%;
+    border: dotted 5px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+}
+
+.green {
+    color: #006d77;
+    text-decoration: underline overline #e29578;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.blue {
+    color: #6a994e;
+    text-decoration: underline overline #e29578;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.red {
+    color: #ff6b35;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+a:hover {
+    font-size: 27px;
+    text-decoration: underline overline #6a994e;
+}
